@@ -4,12 +4,6 @@ linux-2.6 (3.4.1-1) unstable; urgency=low
 
  -- nick black <nick.black@sprezzatech.com>  Fri, 08 Jun 2012 19:27:36 -0400
 
-linux-2.6 (3.4-1) unstable; urgency=low
-
-  * SprezzOS 3.4 build. Let's try this, players.
-
- -- nick black <nick.black@sprezzatech.com>  Tue, 22 May 2012 14:02:30 -0400
-
 linux-2.6 (3.3.6-1) unstable; urgency=low
 
   * Huh?
