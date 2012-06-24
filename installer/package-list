@@ -259,12 +259,6 @@ Priority: standard
 Description: PCMCIA storage drivers
  This package contains PCMCIA storage drivers for the kernel.
 
-Package: fb-modules
-Depends: kernel-image
-Priority: extra
-Description: Frame buffer support
- This package contains Frame buffer drivers for the kernel.
-
 Package: input-modules
 Depends: kernel-image, usb-modules
 Priority: extra
@@ -348,12 +342,6 @@ Depends: kernel-image, md-modules
 Priority: extra
 Description: devicemapper crypto module
  This package contains the devicemapper crypto (dm-crypt) module.
-
-Package: efi-modules
-Depends: kernel-image
-Priority: extra
-Description: EFI modules
- This package contains EFI modules.
 
 Package: ata-modules
 Depends: kernel-image, scsi-core-modules
